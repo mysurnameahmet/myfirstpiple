@@ -6,7 +6,8 @@ pipeline {
                 echo "Welcome to Jenkins Enviroment"
                 sh 'echo using shell within Jenkinsfile'
                 echo 'not using shell within Jenkinsfile'
-                echo 'hi everyone10'  
+                echo 'hi everyone'
+                echo 'hello everyone'  
             }
         }        
     }
